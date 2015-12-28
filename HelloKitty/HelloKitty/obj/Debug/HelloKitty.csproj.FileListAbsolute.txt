@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HelloKitty\HelloKitty\bin\Debug\HelloKitty.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HelloKitty\HelloKitty\bin\Debug\HelloKitty.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HelloKitty\HelloKitty\bin\Debug\HelloKitty.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HelloKitty\HelloKitty\obj\Debug\HelloKitty.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HelloKitty\HelloKitty\obj\Debug\HelloKitty.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\bin\Debug\Chapter7 Triangle Area.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\bin\Debug\Chapter7 Triangle Area.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\bin\Debug\Chapter7 Triangle Area.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.pdb

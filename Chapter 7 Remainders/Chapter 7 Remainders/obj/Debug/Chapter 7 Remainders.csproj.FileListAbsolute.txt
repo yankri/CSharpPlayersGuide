@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\bin\Debug\Chapter 7 Remainders.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\obj\Debug\Chapter 7 Remainders.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\bin\Debug\Chapter 7 Remainders.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\bin\Debug\Chapter 7 Remainders.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\obj\Debug\Chapter 7 Remainders.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 7 Remainders\Chapter 7 Remainders\obj\Debug\Chapter 7 Remainders.pdb
