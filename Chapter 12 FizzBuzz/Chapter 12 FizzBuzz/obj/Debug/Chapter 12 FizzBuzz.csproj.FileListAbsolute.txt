@@ -1,0 +1,1 @@
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 FizzBuzz\Chapter 12 FizzBuzz\bin\Debug\Chapter 12 FizzBuzz.exe.config

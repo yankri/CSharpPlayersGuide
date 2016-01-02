@@ -10,7 +10,7 @@ namespace Chapter_10_Positive_or_Negative
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("You will be asked to enter two numbers. They can be positive or negative. This program will determine if their product is positive or negative.");
+            Console.WriteLine("You will be asked to enter two numbers. \nThey can be positive or negative. \nThis program will determine if their product is positive or negative.");
 
             Console.WriteLine("Please enter the first number."); //First number input, converting to a double to handle decimals too. 
             string userInput1 = Console.ReadLine();

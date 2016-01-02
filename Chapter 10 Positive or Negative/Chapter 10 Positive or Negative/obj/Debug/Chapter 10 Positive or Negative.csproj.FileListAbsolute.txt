@@ -4,3 +4,9 @@ C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Chapter 10 Positive o
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\bin\Debug\Chapter 10 Positive or Negative.pdb
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\obj\Debug\Chapter 10 Positive or Negative.exe
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\obj\Debug\Chapter 10 Positive or Negative.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\bin\Debug\Chapter 10 Positive or Negative.exe.config
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\obj\Debug\Chapter 10 Positive or Negative.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\obj\Debug\Chapter 10 Positive or Negative.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\bin\Debug\Chapter 10 Positive or Negative.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\bin\Debug\Chapter 10 Positive or Negative.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 10 Positive or Negative\Chapter 10 Positive or Negative\obj\Debug\Chapter 10 Positive or Negative.csprojResolveAssemblyReference.cache
