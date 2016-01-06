@@ -4,3 +4,6 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Are
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\bin\Debug\Chapter7 Triangle Area.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter7 Triangle Area\Chapter7 Triangle Area\bin\Debug\Chapter7 Triangle Area.exe.config
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter7 Triangle Area\Chapter7 Triangle Area\obj\Debug\Chapter7 Triangle Area.pdb
