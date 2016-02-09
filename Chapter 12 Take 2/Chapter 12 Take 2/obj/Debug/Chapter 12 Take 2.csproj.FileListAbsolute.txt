@@ -3,3 +3,8 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 12 Take 2\Cha
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 12 Take 2\Chapter 12 Take 2\bin\Debug\Chapter 12 Take 2.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 12 Take 2\Chapter 12 Take 2\obj\Debug\Chapter 12 Take 2.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter 12 Take 2\Chapter 12 Take 2\obj\Debug\Chapter 12 Take 2.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 Take 2\Chapter 12 Take 2\bin\Debug\Chapter 12 Take 2.exe.config
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 Take 2\Chapter 12 Take 2\obj\Debug\Chapter 12 Take 2.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 Take 2\Chapter 12 Take 2\obj\Debug\Chapter 12 Take 2.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 Take 2\Chapter 12 Take 2\bin\Debug\Chapter 12 Take 2.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Chapter 12 Take 2\Chapter 12 Take 2\bin\Debug\Chapter 12 Take 2.pdb
